@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi there! I'm Zidane <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> </h1> 
 
-<!--
-**lastzidanemagaba/lastzidanemagaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me.
+##### ⚡ im noob.
 
-Here are some ideas to get you started:
+### Visitor.
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=antare74)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats.
+<a href="https://github.com/lastzidanemagaba">
+  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=antare74&show_icons=true&count_private=true&hide_border=false&theme=vue-dark" />
+</a>
+<a href="https://github.com/lastzidanemagaba">
+  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mystique09&layout=compact&langs_count=20&count_private=true&hide_border=false&theme=vue-dark" />
+</a>
+
+### Metrics. 
+![Metrics](https://metrics.lecoq.io/lastzidanemagaba?template=classic&base.header=0&isocalendar=1&stackoverflow=1&achievements=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&stackoverflow.user=11778624&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FJakarta&config.display=large)
