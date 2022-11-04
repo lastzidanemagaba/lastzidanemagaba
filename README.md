@@ -4,7 +4,7 @@
 ##### ⚡ im noob.
 
 ### Visitor.
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=antare74)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lastzidanemagaba)
 
 ### Stats.
 <a href="https://github.com/lastzidanemagaba">
