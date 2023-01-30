@@ -6,8 +6,7 @@
 ### Visitor.
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lastzidanemagaba)
 
-### Stats
-([https://visitor-badge.laobi.icu/badge?page_id=lastzidanemagaba](https://github-readme-stats.vercel.app/api?username=lastzidanemagaba&amp;show_icons=true&amp;count_private=true&amp;hide_border=false&amp;theme=vue-dark))
+
 
 
 
