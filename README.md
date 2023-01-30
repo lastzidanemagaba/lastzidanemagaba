@@ -6,6 +6,14 @@
 ### Visitor.
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lastzidanemagaba)
 
+### Stats.
+<a href="https://github.com/lastzidanemagaba">
+  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=antare74&show_icons=true&count_private=true&hide_border=false&theme=vue-dark" />
+</a>
+<a href="https://github.com/lastzidanemagaba">
+  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lastzidanemagaba&layout=compact&langs_count=20&count_private=true&hide_border=false&theme=vue-dark" />
+</a>
+
 
 
 
