@@ -7,7 +7,6 @@
 ### About Me.
 ##### - 👋 Hi, I’m Zidane J Magaba
 ##### - 💼 I'm focused on Backend Developer
-##### - 💬 I'm golang enthusiast
 
 ### Visitor.
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lastzidanemagaba)
