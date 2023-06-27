@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/zidane-magaba-48685b142/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  </a><br>
 ### About Me.
 ##### - 👋 Hi, I’m Zidane J Magaba
 ##### - 💼 I'm focused on Backend Developer
