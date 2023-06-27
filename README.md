@@ -5,7 +5,7 @@
 </p>
 
 ### About Me.
-### <a href="https://www.linkedin.com/in/roby-purba-sakty-850927244/" target="_blank">
+<a href="https://www.linkedin.com/in/roby-purba-sakty-850927244/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 ##### - 👋 Hi, I’m Zidane J Magaba
