@@ -4,10 +4,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=700&pause=1000&color=E02F09&width=435&lines=Melihat+kamu+bahagia+dengan+yang+lain" alt="Typing SVG" /></a>
 </p>
 
-### About Me.
-<a href="https://www.linkedin.com/in/roby-purba-sakty-850927244/" target="_blank">
+<a href="https://www.linkedin.com/in/zidane-magaba-48685b142/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+### About Me.
 ##### - 👋 Hi, I’m Zidane J Magaba
 ##### - 💼 I'm focused on Backend Developer
 
